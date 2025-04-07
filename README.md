@@ -36,6 +36,10 @@ The goal is to make these regulatory frameworks actionable for developers and re
   - Title: *Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices: Guiding Principles*.
   - Clarified guiding principles for the design and implementation of PCCPs.
 
+- **June 2024**
+  - Transparency for Machine Learning-Enabled Medical Devices: Guiding Principles
+  - Published guiding principles to support transparency, communication, and informed decision-making across the lifecycle of ML-enabled medical devices.
+
 - **December 2024**: Final Guidance
   - Title: *Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions*.
   - Finalized the draft guidance released in April 2023, offering regulatory clarity for PCCPs.
