@@ -24,21 +24,18 @@ These documents help define Good Machine Learning Practice (GMLP) and transparen
 
 - October 2021 – GMLP Principles
 
-        Title: Good Machine Learning Practice for Medical Device Development: Guiding Principles
-
-        Why important: Establishes 10 key principles jointly with Health Canada and the UK MHRA.
+  - Title: Good Machine Learning Practice for Medical Device Development: Guiding Principles
+  - Why important: Establishes 10 key principles jointly with Health Canada and the UK MHRA.
 
 - October 2023 – PCCP Guiding Principles
 
-        Title: Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices: Guiding Principles
-
-        Why important: Lays out high-level considerations and best practices for building a robust PCCP.
+  - Title: Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices: Guiding Principles
+  - Why important: Lays out high-level considerations and best practices for building a robust PCCP.
 
 - June 2024 – Transparency Principles
 
-        Title: Transparency for Machine Learning-Enabled Medical Devices: Guiding Principles
-
-        Why important: Provides transparency guidance across development, communication with users, and marketing.
+  - Title: Transparency for Machine Learning-Enabled Medical Devices: Guiding Principles
+  - Why important: Provides transparency guidance across development, communication with users, and marketing.
 
 ## Draft and Final FDA Guidances
 
@@ -46,18 +43,15 @@ These give practical, regulatory instructions for industry on how to work with t
 
 - April 2023 – Draft Guidance
 
-        Title: Marketing Submission Recommendations for a PCCP for AI/ML-Enabled Device Software Functions
-
-        Why important: First draft that outlines how to submit PCCPs as part of premarket submissions.
+  - Title: Marketing Submission Recommendations for a PCCP for AI/ML-Enabled Device Software Functions
+  - Why important: First draft that outlines how to submit PCCPs as part of premarket submissions.
 
 - December 2024 – Final Guidance
 
-        Title: Final Guidance on PCCPs for AI-Enabled Device Software Functions
-
-        Why important: Finalized the April 2023 draft. Clarifies what must be included in a PCCP and how the FDA will evaluate it.
+  - Title: Final Guidance on PCCPs for AI-Enabled Device Software Functions
+  - Why important: Finalized the April 2023 draft. Clarifies what must be included in a PCCP and how the FDA will evaluate it.
 
 - January 2025 – Draft Lifecycle Guidance
 
-        Title: Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations
-
-        Why important: Introduces lifecycle and risk-based management ideas for AI/ML software over time.
+  - Title: Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations
+  - Why important: Introduces lifecycle and risk-based management ideas for AI/ML software over time.
