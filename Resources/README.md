@@ -1,24 +1,20 @@
 # Key FDA Papers and Guidance Documents
 
-## Foundational Documents
+## 01 Foundational Documents
 
 These introduced the core concepts and rationale behind regulating adaptive AI/ML in medical devices.
 
 - April 2019 – Discussion Paper
 
-        Title: Proposed Regulatory Framework for Modifications to AI/ML-Based Software as a Medical Device (SaMD)
-
-        Why important: Introduces the concept of Predetermined Change Control Plans (PCCP) and sets the stage for future guidance.
-
-        Read online
+  - Title: Proposed Regulatory Framework for Modifications to AI/ML-Based Software as a Medical Device (SaMD)
+  - Why important: Introduces the concept of Predetermined Change Control Plans (PCCP) and sets the stage for future guidance.
 
 - January 2021 – AI/ML Action Plan
 
-        Title: Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan
+  - Title: Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan
+  - Why important: Outlines the FDA’s future direction and commitment to transparency, real-world performance monitoring, and GMLP.
 
-        Why important: Outlines the FDA’s future direction and commitment to transparency, real-world performance monitoring, and GMLP.
-
-## Guiding Principles
+## 02 Guiding Principles
 
 These documents help define Good Machine Learning Practice (GMLP) and transparency principles to ensure safety, effectiveness, and trust.
 
@@ -37,7 +33,7 @@ These documents help define Good Machine Learning Practice (GMLP) and transparen
   - Title: Transparency for Machine Learning-Enabled Medical Devices: Guiding Principles
   - Why important: Provides transparency guidance across development, communication with users, and marketing.
 
-## Draft and Final FDA Guidances
+## 03 Draft and Final FDA Guidances
 
 These give practical, regulatory instructions for industry on how to work with the FDA.
 
