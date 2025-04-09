@@ -78,6 +78,8 @@ This chapter introduces the FDA’s vision for a **regulatory framework that sup
 
 ### Core Components of the TPLC Approach
 
+![TPLC Process Overview](tplc-visualization.png)
+
 #### 1. Quality Systems + Good Machine Learning Practices (GMLP)
 
 - Developers are expected to adopt robust development and validation practices, including:
