@@ -45,7 +45,7 @@ This summary consolidates key information from the FDA's guiding principles docu
 
 Enable proactive updates to AI models without requiring a new submission, while maintaining safety and effectiveness.
 
-### 🧱 Structure of a PCCP
+### Structure of a PCCP
 
 1. **Description of Modifications**: Detail what types of changes (e.g., retraining, threshold adjustment) are planned.
 2. **Modification Protocol**:
