@@ -50,7 +50,6 @@ In later chapters, the FDA introduces the **PCCP** as a way for manufacturers to
 
 If a modification falls within a pre-approved **PCCP**, it **may not require a new FDA submission**, streamlining updates while maintaining oversight and safety.
 
-
 ## Total Product Lifecylce (TPLC) Regulatory Approach
 
 This chapter introduces the FDA’s vision for a **regulatory framework that supports safe, effective, and continuously learning AI/ML-based SaMD throughout their entire lifecycle** — from development through deployment and postmarket evolution.
