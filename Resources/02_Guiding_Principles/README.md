@@ -37,6 +37,18 @@ This summary consolidates key information from the FDA's guiding principles docu
 - Address **subgroup performance**: Highlight any variability across demographics.
 - Include **limitations** and conditions where the model may not perform well.
 
+
+### Summary Table of Transparency Guiding Principles
+
+| Guiding Principle | Description |
+|-------------------|-------------|
+| **Who** (Relevant audiences) | Transparency is relevant to all parties involved in a patient’s health care, including those intended to: <br>• Use or receive health care with the device <br>• Make decisions about the device to support patient outcomes |
+| **Why** (Motivation) | Transparency supports: <br>• Safe and effective use <br>• Patient-centered care <br>• Evaluation of risks and benefits <br>• Informed decision-making <br>• Device maintenance <br>• Health equity via bias identification <br>• Adoption through user confidence |
+| **What** (Relevant information) | Share information on: <br>• Device characterization and intended use <br>• Workflow integration and decision impact <br>• Performance, benefits, and risks <br>• Development and risk management activities <br>• Model logic (if explainable) <br>• Limitations, known biases, confidence intervals, and data gaps <br>• Lifecycle safety and effectiveness practices |
+| **Where** (Placement of information) | Maximize the use of software interfaces to: <br>• Make information responsive, personalized, and adaptive <br>• Deliver content through varied modalities (e.g., text, alerts, visuals) |
+| **When** (Timing of communication) | Timely communication should consider: <br>• Lifecycle stages <br>• Updates or discovered issues <br>• Workflow-triggered events or high-risk actions |
+| **How** (Methods to support transparency) | Apply **human-centered design**: <br>• Tailor content detail and organization for target users <br>• Validate communication through iterative testing and usability evaluation |
+
 ---
 
 ## 3. Predetermined Change Control Plans (PCCP)
