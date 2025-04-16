@@ -6,7 +6,7 @@ This document summarizes the **Scope** section of the FDA's final guidance on **
 
 ---
 
-## What Devices Are Covered?
+### What Devices Are Covered?
 
 This guidance applies to **AI-Enabled Device Software Functions (AI-DSFs)** that manufacturers intend to **modify over time**. This includes:
 
@@ -20,7 +20,7 @@ This guidance applies to **AI-Enabled Device Software Functions (AI-DSFs)** that
 
 ---
 
-## What the Guidance Includes
+### What the Guidance Includes
 
 A **PCCP** is intended to authorize changes that would typically require a new submission, including:
 
@@ -36,7 +36,7 @@ These changes must be:
 
 ---
 
-## What the Guidance Excludes
+### What the Guidance Excludes
 
 This guidance does **not cover**:
 
@@ -47,7 +47,7 @@ This guidance does **not cover**:
 
 ---
 
-## Combination Products
+### Combination Products
 
 For **device-led combination products** (e.g., AI device combined with a drug or biologic):
 
@@ -57,7 +57,7 @@ For **device-led combination products** (e.g., AI device combined with a drug or
 
 ---
 
-## Implementation Highlights
+### Implementation Highlights
 
 - An **authorized PCCP** allows for pre-approved changes to be made **without**:
   - Re-submitting for a PMA supplement
@@ -66,7 +66,7 @@ For **device-led combination products** (e.g., AI device combined with a drug or
 
 ---
 
-## FDA Recommendation
+### FDA Recommendation
 
 Manufacturers are **encouraged to engage early** with FDA using the **Q-Submission Program** to ensure:
 
@@ -79,7 +79,7 @@ This section defines key terms used throughout the guidance. Understanding these
 
 ---
 
-## A. Software Functions
+### A. Software Functions
 
 **Artificial Intelligence (AI)**  
 A machine-based system that, for a given set of human-defined objectives, can make predictions, recommendations, or decisions influencing real or virtual environments.
@@ -98,7 +98,7 @@ A DSF that implements an AI model. AI-DSFs are the primary focus of this guidanc
 
 ---
 
-## B. Data Sets
+### B. Data Sets
 
 **Training Data**  
 Data used to build the AI model (e.g., setting weights or connections).
@@ -119,7 +119,7 @@ Used to characterize and validate model performance post-training.
 
 ---
 
-## C. Predetermined Change Control Plan (PCCP)
+### C. Predetermined Change Control Plan (PCCP)
 
 **Predetermined Change Control Plan (PCCP)**  
 Documentation describing:
