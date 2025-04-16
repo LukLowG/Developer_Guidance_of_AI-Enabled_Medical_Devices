@@ -56,7 +56,6 @@ This summary consolidates key information from the FDA's guiding principles docu
 - Address **subgroup performance**: Highlight any variability across demographics.
 - Include **limitations** and conditions where the model may not perform well.
 
-
 ### Summary Table of Transparency Guiding Principles
 
 | Guiding Principle | Description |
@@ -74,22 +73,108 @@ This summary consolidates key information from the FDA's guiding principles docu
 
 ### Purpose
 
-Enable proactive updates to AI models without requiring a new submission, while maintaining safety and effectiveness.
+Predetermined Change Control Plans (PCCPs) enable manufacturers of ML-enabled medical devices to pre-authorize specific types of future changes — such as updates to an AI model — without submitting a new marketing application each time, as long as those changes fall within the bounds of the approved plan.
 
-### Structure of a PCCP
+---
 
-1. **Description of Modifications**: Detail what types of changes (e.g., retraining, threshold adjustment) are planned.
-2. **Modification Protocol**:
-   - Data management practices
-   - Re-training/tracking processes
-   - Performance evaluation procedures
-3. **Impact Assessment**: Explain how safety and effectiveness will be ensured post-modification.
+### Guiding Principles for PCCPs
+
+The FDA outlines five key principles that a well-structured PCCP should follow:
+
+#### 1. **Focused and Bounded**
+
+- The PCCP must clearly define the scope and extent of anticipated modifications. These changes must remain within the originally authorized intended use.
+- The plan should:
+  - Limit modifications to what is explicitly described and justified.
+  - Include safeguards (e.g., rollbacks or abort procedures) if a change fails validation.
+  - Specify how impacts on device performance will be measured.
+  
+  *Example:* A PCCP may allow changes to a model's input weighting scheme but not permit adding new clinical features unless a new submission is filed.
+
+#### 2. **Risk-Based**
+
+- The PCCP should be developed using principles of risk management.
+- Risk assessments must consider:
+  - Each change's potential impact.
+  - The accumulation of risk over multiple updates.
+  - The environment in which the device is used.
+
+  *Example:* A home-use device’s PCCP would account for different risks than a hospital-only tool due to variability in user expertise.
+
+#### 3. **Evidence-Based**
+
+- All changes implemented under a PCCP must be supported by scientific and clinical evidence.
+- Performance metrics and validation methods must:
+  - Be proportionate to the risks introduced.
+  - Demonstrate safety and effectiveness both before and after the change.
+
+  *Example:* If a model is retrained using a new data source, the evidence must include validation on a test set representative of the target population.
+
+#### 4. **Transparent**
+
+- The PCCP should include detailed plans for how updates and their impacts will be communicated to:
+  - End users (e.g., clinicians, patients).
+  - Regulatory authorities.
+- Transparency applies across:
+  - Data used for updates.
+  - Test results before/after changes.
+  - Performance monitoring and deviation handling.
+
+  *Example:* Update summaries and performance dashboards are made available to users via the device UI or cloud portal.
+
+#### 5. **Total Product Lifecycle (TPLC) Perspective**
+
+- PCCPs should be designed and maintained with a long-term view across the entire lifecycle:
+  - Integrating quality management systems (QMS).
+  - Using postmarket surveillance data to refine future updates.
+  - Ensuring continuity in safety and performance.
+
+  *Example:* A PCCP might include periodic performance audits and feedback collection to inform both pre- and post-market improvements.
+
+---
+
+### PCCP Components
+
+A complete PCCP typically includes the following sections:
+
+#### 1. **Description of Modifications**
+
+Defines what types of changes will be made and the rationale behind them.
+
+#### 2. **Modification Protocol**
+
+Details:
+
+- When and how changes are triggered
+- Data acquisition and preparation
+- Model update workflows
+- Testing and validation protocols
+- Rollback mechanisms
+
+#### 3. **Impact Assessment**
+
+Describes how the manufacturer will evaluate:
+
+- Whether the change maintains the device's safety and effectiveness
+- Potential unintended effects or failure modes
+
+---
+
+### Benefits of Using a PCCP
+
+- Streamlines regulatory interactions
+- Enables faster model improvements
+- Supports proactive risk mitigation
+- Increases clinical and user confidence in adaptive systems
+
+---
 
 ### Best Practices
 
-- Include appropriate **statistical validation** and **bias control** methods.
-- Provide **transparent documentation** on data handling and model evolution.
-- Use **independent test data** to validate any changes before deployment.
+- Maintain strong documentation and traceability
+- Use representative data for validation
+- Clearly communicate changes to all stakeholders
+- Avoid scope creep — stay within the “focused and bounded” guardrails
 
 ---
 
