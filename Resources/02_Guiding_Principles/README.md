@@ -8,16 +8,35 @@ This summary consolidates key information from the FDA's guiding principles docu
 
 ### Core Principles
 
-1. **Multidisciplinary Expertise**: Involve cross-functional teams from the beginning.
-2. **Clinical Relevance**: Ensure that data is relevant and representative of the target population.
-3. **Data Quality and Integrity**: Use high-quality, curated datasets with proper data management.
-4. **Training and Testing Independence**: Separate data used for training from that used for testing.
-5. **Performance Metrics**: Use clinically meaningful metrics and evaluate across relevant subgroups.
-6. **Human-AI Teaming**: Evaluate the performance of both the AI and the human-AI team.
-7. **Test for Relevance**: Validate under clinically representative conditions.
-8. **Risk Management**: Incorporate software risk management practices throughout the lifecycle.
-9. **Transparency**: Provide users with clear, essential information about the model and its outputs.
-10. **Monitoring**: Establish monitoring procedures to address model performance over time.
+1. **Multidisciplinary Expertise Is Leveraged Throughout the Product Lifecycle**  
+   *Example:* A company includes data scientists, software engineers, clinicians, and regulatory experts in the early planning stages of an AI-enabled diagnostic tool.
+
+2. **Good Software Engineering and Security Practices Are Implemented**  
+   *Example:* Developers use version control and unit testing frameworks and follow secure coding standards when building the device's backend AI system.
+
+3. **Clinical Study Participants and Data Sets Are Representative of the Intended Patient Population**  
+   *Example:* The training data for a cardiovascular AI tool includes patients of varying ages, sexes, races, and comorbidities from multiple geographic locations.
+
+4. **Training and Test Data Are Independent**  
+   *Example:* The training set for a skin cancer detection model is drawn from hospitals A, B, and C, while the testing set exclusively uses data from hospital D.
+
+5. **Selected Reference Datasets Are Based Upon Best Available Methods**  
+   *Example:* A diabetic retinopathy AI model is trained using images labeled by a panel of ophthalmologists with inter-rater agreement metrics documented.
+
+6. **Model Design Is Tailored to the Available Data and Intended Use of the Device**  
+   *Example:* A home-based respiratory monitoring system is designed using models robust to background noise and variations in patient posture.
+
+7. **Focus Is Placed on the Performance of the Human-AI Team**  
+   *Example:* In a clinical reader study, physicians using an AI radiology assistant show faster and more accurate diagnoses compared to physicians working alone.
+
+8. **Testing Demonstrates Device Performance During Clinically Relevant Conditions**  
+   *Example:* An AI system that monitors ICU patients is validated with real-time data from simulated ICU environments before clinical deployment.
+
+9. **Users Are Provided Clear, Essential Information**  
+   *Example:* The product includes a visual model card summarizing how the AI works, expected accuracy, confidence intervals, and known limitations.
+
+10. **Deployed Models Are Monitored for Performance and Re-training Risks Are Managed**  
+   *Example:* A manufacturer sets up automatic data drift detection and performance alerts to flag when their AI model needs retraining or human review.
 
 ---
 
